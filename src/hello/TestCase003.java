@@ -2,14 +2,10 @@ package hello;
 
 public class TestCase003 {
 
-<<<<<<< HEAD
+
     // step 4
 
-    // ste 5
-=======
-// step 1
+    // step 5
 
-    // code finished in feature branch
-
->>>>>>> tc003
+    // step 6
 }
